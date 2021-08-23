@@ -1,0 +1,3 @@
+[submodule "scurm"]
+	path = scurm
+	url = https://github.com/nanashiJQL/scurm.git/
